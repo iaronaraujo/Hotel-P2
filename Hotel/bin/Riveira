@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.1.7" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true">  
+  <class id="1" language="java" name="hotel.servicos.Refeicao" project="Hotel Riviera" 
+    file="/Hotel Riviera/src/hotel/servicos/Refeicao.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="584" y="414"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="hotel.utilitarios.CarroDeLuxo" project="Hotel Riviera" 
+    file="/Hotel Riviera/src/hotel/utilitarios/CarroDeLuxo.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1280" y="852"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="hotel.servicos.Babysitting" project="Hotel Riviera" 
+    file="/Hotel Riviera/src/hotel/servicos/Babysitting.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="956" y="455"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="hotel.servicos.AluguelDeCarro" project="Hotel Riviera" 
+    file="/Hotel Riviera/src/hotel/servicos/AluguelDeCarro.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1486" y="452"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="hotel.utilitarios.CarroExecutivo" project="Hotel Riviera" 
+    file="/Hotel Riviera/src/hotel/utilitarios/CarroExecutivo.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1767" y="864"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="6" language="java" name="hotel.servicos.Servico" project="Hotel Riviera" 
+    file="/Hotel Riviera/src/hotel/servicos/Servico.java" binary="false" corner="BOTTOM_LEFT">    
+    <position height="-1" width="-1" x="686" y="179"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="7" language="java" name="hotel.servicos.DiariaQuarto" project="Hotel Riviera" 
+    file="/Hotel Riviera/src/hotel/servicos/DiariaQuarto.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="259" y="430"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="hotel.essencials.Contrato" project="Hotel Riviera" 
+    file="/Hotel Riviera/src/hotel/essencials/Contrato.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="683" y="-275"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="hotel.essencials.Hotel" project="Hotel Riviera" 
+    file="/Hotel Riviera/src/hotel/essencials/Hotel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="80" y="-293"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="hotel.utilitarios.Opiniao" project="Hotel Riviera" 
+    file="/Hotel Riviera/src/hotel/utilitarios/Opiniao.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="-247" y="-1"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="program.userInterface.userProgram" project="Hotel Riviera" 
+    file="/Hotel Riviera/src/program/userInterface/userProgram.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="85" y="-978"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="hotel.estrategia.NatalEReveillon" project="Hotel Riviera" 
+    file="/Hotel Riviera/src/hotel/estrategia/NatalEReveillon.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2096" y="105"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="hotel.estrategia.SaoJoao" project="Hotel Riviera" 
+    file="/Hotel Riviera/src/hotel/estrategia/SaoJoao.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2654" y="103"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="14" language="java" name="hotel.estrategia.EstrategiaDeTarifa" project="Hotel Riviera" 
+    file="/Hotel Riviera/src/hotel/estrategia/EstrategiaDeTarifa.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2167" y="-269"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="15" language="java" name="hotel.estrategia.Simples" project="Hotel Riviera" 
+    file="/Hotel Riviera/src/hotel/estrategia/Simples.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2393" y="103"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="hotel.essencials.Hospede" project="Hotel Riviera" 
+    file="/Hotel Riviera/src/hotel/essencials/Hospede.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1260" y="58"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" name="hotel.estrategia.BaixaEstacao" project="Hotel Riviera" 
+    file="/Hotel Riviera/src/hotel/estrategia/BaixaEstacao.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1814" y="106"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="18" language="java" name="hotel.utilitarios.QuartoExecutivoSimples" project="Hotel Riviera" 
+    file="/Hotel Riviera/src/hotel/utilitarios/QuartoExecutivoSimples.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="209" y="1251"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="19" language="java" name="hotel.utilitarios.QuartoLuxoSimples" project="Hotel Riviera" 
+    file="/Hotel Riviera/src/hotel/utilitarios/QuartoLuxoSimples.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="917" y="1256"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="20" language="java" name="hotel.utilitarios.QuartoExecutivoDuplo" project="Hotel Riviera" 
+    file="/Hotel Riviera/src/hotel/utilitarios/QuartoExecutivoDuplo.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="584" y="1253"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="21" language="java" name="hotel.utilitarios.QuartoExtensivel" project="Hotel Riviera" 
+    file="/Hotel Riviera/src/hotel/utilitarios/QuartoExtensivel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="740" y="987"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="22" language="java" name="hotel.utilitarios.QuartoLuxoTriplo" project="Hotel Riviera" 
+    file="/Hotel Riviera/src/hotel/utilitarios/QuartoLuxoTriplo.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="-290" y="968"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="23" language="java" name="hotel.utilitarios.QuartoPresidencial" project="Hotel Riviera" 
+    file="/Hotel Riviera/src/hotel/utilitarios/QuartoPresidencial.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="73" y="966"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="24" language="java" name="hotel.utilitarios.QuartoExecutivoTriplo" project="Hotel Riviera" 
+    file="/Hotel Riviera/src/hotel/utilitarios/QuartoExecutivoTriplo.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="437" y="966"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="25" language="java" name="hotel.utilitarios.QuartoLuxoDuplo" project="Hotel Riviera" 
+    file="/Hotel Riviera/src/hotel/utilitarios/QuartoLuxoDuplo.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1284" y="1255"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="26" language="java" name="hotel.utilitarios.Quarto" project="Hotel Riviera" 
+    file="/Hotel Riviera/src/hotel/utilitarios/Quarto.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="257" y="693"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <realization id="27">    
+    <end type="SOURCE" refId="17"/>    
+    <end type="TARGET" refId="14"/>  
+  </realization>  
+  <association id="28">    
+    <bendpoint x="734" y="22"/>    
+    <end type="SOURCE" refId="8" navigable="false">      
+      <attribute id="29" name="listaDeServicosContratados">        
+        <position height="17" width="139" x="751" y="57"/>      
+      </attribute>      
+      <multiplicity id="30" minimum="0" maximum="2147483647">        
+        <position height="15" width="21" x="718" y="89"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="31">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="6"/>  
+  </realization>  
+  <association id="32">    
+    <end type="SOURCE" refId="8" navigable="false">      
+      <attribute id="33" name="listaDeHospedesAssociados">        
+        <position height="17" width="141" x="944" y="-40"/>      
+      </attribute>      
+      <multiplicity id="34" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="16" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="35">    
+    <end type="SOURCE" refId="18"/>    
+    <end type="TARGET" refId="21"/>  
+  </generalization>  
+  <association id="36">    
+    <end type="SOURCE" refId="11" navigable="false">      
+      <attribute id="37" name="hotel">        
+        <position height="0" width="0" x="392" y="172"/>      
+      </attribute>      
+      <multiplicity id="38" minimum="0" maximum="1">        
+        <position height="0" width="0" x="392" y="172"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="9" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="39">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="6"/>  
+  </realization>  
+  <realization id="40">    
+    <end type="SOURCE" refId="23"/>    
+    <end type="TARGET" refId="26"/>  
+  </realization>  
+  <generalization id="41">    
+    <end type="SOURCE" refId="25"/>    
+    <end type="TARGET" refId="21"/>  
+  </generalization>  
+  <realization id="42">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="6"/>  
+  </realization>  
+  <association id="43">    
+    <end type="SOURCE" refId="9" navigable="false">      
+      <attribute id="44" name="servicosOferecidos">        
+        <position height="17" width="97" x="429" y="57"/>      
+      </attribute>      
+      <multiplicity id="45" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="14" y="135"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="46">    
+    <end type="SOURCE" refId="20"/>    
+    <end type="TARGET" refId="21"/>  
+  </generalization>  
+  <association id="47">    
+    <end type="SOURCE" refId="8" navigable="false">      
+      <attribute id="48" name="tipoDeTarifa">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="49" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="14" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="50">    
+    <end type="SOURCE" refId="9" navigable="false">      
+      <attribute id="51" name="opinioes">        
+        <position height="17" width="47" x="-143" y="-93"/>      
+      </attribute>      
+      <multiplicity id="52" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="399" y="228"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="53">    
+    <bendpoint x="646" y="26"/>    
+    <end type="SOURCE" refId="8" navigable="false">      
+      <attribute id="54" name="servicosOferecidos">        
+        <position height="17" width="97" x="554" y="-18"/>      
+      </attribute>      
+      <multiplicity id="55" minimum="0" maximum="2147483647">        
+        <position height="15" width="21" x="653" y="-15"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="56">    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="26"/>  
+  </realization>  
+  <generalization id="57">    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="21"/>  
+  </generalization>  
+  <realization id="58">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="6"/>  
+  </realization>  
+  <association id="59">    
+    <end type="SOURCE" refId="9" navigable="false">      
+      <attribute id="60" name="contratos">        
+        <position height="0" width="0" x="1" y="1"/>      
+      </attribute>      
+      <multiplicity id="61" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="1" y="1"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="8" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="62">    
+    <end type="SOURCE" refId="24"/>    
+    <end type="TARGET" refId="26"/>  
+  </realization>  
+  <realization id="63">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="14"/>  
+  </realization>  
+  <realization id="64">    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="14"/>  
+  </realization>  
+  <association id="65">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="66" name="quartoDoHotel">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="67" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="26" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="68">    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="14"/>  
+  </realization>  
+  <realization id="69">    
+    <end type="SOURCE" refId="22"/>    
+    <end type="TARGET" refId="26"/>  
+  </realization>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
